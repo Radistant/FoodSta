@@ -55,8 +55,6 @@ a {
 	padding: 28px 0;
 }
 
-.nav-item {
-}
 .nav-link:hover,
 .nav-link:focus {
 	color: #bbf330;
@@ -93,9 +91,6 @@ a {
 	align-items: center;
 }
 
-.container {
-}
-
 .hero-wrapper {
 	max-width: 511px;
 	margin-right: 143px;
@@ -110,4 +105,57 @@ a {
 	font-size: 16px;
 	line-height: 1.5;
 	padding-bottom: 40px;
+}
+
+.about {
+	padding-top: 113px;
+	padding-bottom: 124px;
+	background-color: #ffe550;
+}
+
+.about-container {
+	display: flex;
+	align-items: center;
+}
+
+.about-wrapper {
+	width: 573px;
+	margin-left: 90px;
+	max-width: 526px;
+}
+
+.about-title {
+	font-size: 42px;
+	line-height: 1.2;
+	margin-bottom: 20px;
+}
+
+.about-text {
+	font-size: 16px;
+	line-height: 1.5;
+	margin-bottom: 40px;
+}
+
+.about-lsit {
+	display: flex;
+	gap: 67px;
+	margin-bottom: 16px;
+}
+
+.about-btn {
+	background-color: #fff;
+	border: 2px solid #7eb101;
+}
+
+.about-item {
+}
+.about-subtitle {
+	font-size: 18px;
+	line-height: 1.4;
+}
+.about-description {
+	line-height: 1.5;
+	margin-bottom: 32px;
+}
+.main-btn {
 }
